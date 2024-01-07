@@ -2,7 +2,7 @@
 An embedded system project of an audio player made using Altera Max 10 FPGA, Quartus Prime & NIOS II
 
 ## System Demo
-https://github.com/Max00358/Embedded_Project-Audio_Player/assets/125518862/1652dea4-407a-4c59-89e3-23f0ce0c5e80
+[<img width="1145" alt="Screen Shot 2024-01-07 at 1 18 09 PM" src="https://github.com/Max00358/Embedded_Project-Audio_Player/assets/125518862/8fc20e62-a591-4d00-a62f-a8a1c37413a9">](https://youtu.be/koruz6dfTw4)
 
 ## Software & Hardware Used
   * Software
